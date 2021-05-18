@@ -10,7 +10,7 @@ dependencies:
   convert: ^3.0.0
   flutter:
     sdk: flutter
-  flutter_svg: ^0.21.0+1
+  flutter_svg: ^0.22.0
   http: ^0.13.0
   logging: ^1.0.0
   meta: ^1.2.4
